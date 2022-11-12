@@ -1,2 +1,2 @@
 [webservers]
-192.168.29.3 ansible_user=centos 
+192.168.29.3 ansible_user=root 
